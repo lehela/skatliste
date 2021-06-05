@@ -1,0 +1,40 @@
+version: "3.8"
+
+services: 
+
+  nodered:
+    image: nodered/node-red
+    init: true
+    container_name: skatliste_nodered
+    volumes:
+        - ./nodered:/host
+        - nodered_userdir:/data
+    ports:
+      - 1880:1880
+    depends_on: 
+      - mariadb
+
+
+  mariadb:
+    image: ghcr.io/linuxserver/mariadb
+    container_name: skatliste_mariadb
+    environment:
+      #- PUID=1000
+      #- PGID=1000
+      - MYSQL_ROOT_PASSWORD=rootsecrets
+      - TZ=Asia/Singapore
+      - MYSQL_DATABASE=skatliste #optional
+      - MYSQL_USER=skatapp #optional
+      - MYSQL_PASSWORD=skatapp #optional
+      #- REMOTE_SQL=http://URL1/your.sql,https://URL2/your.sql #optional
+    volumes:
+      - ./mariadb:/host
+      - mariadb_datadir:/config
+    ports:
+        - 3306:3306
+    # restart: unless-stopped    
+    
+    
+volumes: 
+  nodered_userdir:
+  mariadb_datadir:
