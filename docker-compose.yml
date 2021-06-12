@@ -11,6 +11,7 @@ services:
         - nodered_userdir:/data
     ports:
       - 1880:1880
+    restart: unless-stopped
     depends_on: 
       - mariadb
 
@@ -32,7 +33,7 @@ services:
       - mariadb_datadir:/config
     ports:
         - 3306:3306
-    # restart: unless-stopped    
+    restart: unless-stopped    
     
     
 volumes: 
