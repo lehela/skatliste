@@ -1,4 +1,4 @@
 #!/bin/bash
-
-./mariadb/mariadb_backup.sh
-./nodered/nodered_backup.sh
+DIRNAME=$(dirname "${BASH_SOURCE[0]}")
+$DIRNAME/mariadb/mariadb_backup.sh
+$DIRNAME/nodered/nodered_backup.sh
