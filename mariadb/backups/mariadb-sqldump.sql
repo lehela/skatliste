@@ -1,8 +1,8 @@
--- MariaDB dump 10.19  Distrib 10.5.15-MariaDB, for Linux (x86_64)
+-- MariaDB dump 10.18  Distrib 10.4.17-MariaDB, for debian-linux-gnu (aarch64)
 --
 -- Host: localhost    Database: skatliste
 -- ------------------------------------------------------
--- Server version	10.5.15-MariaDB-log
+-- Server version	10.4.17-MariaDB-1:10.4.17+maria~bionic-log
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -1870,4 +1870,4 @@ USE `skatliste`;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2022-04-18  5:35:11
+-- Dump completed on 2022-04-18  6:06:31
