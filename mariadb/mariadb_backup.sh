@@ -11,7 +11,7 @@ DBPWD=rootsecrets
 
 # Backup location
 BACKUPDIR=/host/backups
-SQLDUMP=mariadb-sqldump-$(date +"%Y%m%d%H%M").sql
+SQLDUMP=mariadb-sqldump.sql
 
 # Write mysqldump to backup directory 
 docker exec $CONTAINER /bin/bash -c "\

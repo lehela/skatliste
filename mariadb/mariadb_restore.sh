@@ -11,7 +11,7 @@ DBPWD=rootsecrets
 
 # Backup location
 BACKUPDIR=/host/backups
-SQLDUMP=$1
+SQLDUMP=mariadb-sqldump.sql
 
 # Import mysqldump from backup directory 
 docker exec $CONTAINER /bin/bash -c "\

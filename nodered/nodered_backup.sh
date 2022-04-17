@@ -7,7 +7,7 @@ USERDIR=/data
 
 # Backup Variables
 BACKUPDIR=/host/backups
-ARCHIVE=node-red-skat-$(date +"%Y%m%d%H%M").tgz
+ARCHIVE=node-red-skat.tgz
 
 # Write app files to archive
 docker exec $CONTAINER /bin/bash -c "\

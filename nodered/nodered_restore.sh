@@ -7,7 +7,7 @@ USERDIR=/data
 
 # Backup Variables
 BACKUPDIR=/host/backups
-ARCHIVE=$1
+ARCHIVE=node-red-skat.tgz
 
 # Unpack archive into user directory 
 docker exec $CONTAINER /bin/bash -c "\
