@@ -20,19 +20,24 @@ The application consists out of two docker services:
 
 Each of the services has backup/restore scripts in their respective folders.
 
-The backup scripts can be run without any arguments:
-- `nodered_backup.sh` saves the following files into a timestamped tgz archive:
+## Backup
+The backup script `app_backup.sh` is a convenience scripts which calls the below scripts:
+- `nodered/nodered_backup.sh` saves the following files into the `nodered/backups/node-red-skat.tgz` tgz archive:
   
   - flows.json (The application logic)
   - flows_cred.json (Database credentials, which must match the `docker-compose.yml`)
   - settings.json (The settings with credential encryption disabled for clear texts)
   - package.json (Additional nodes required)
-- `mariadb_backup.sh` saves the `skatliste` database into a timestamped `.sql` file.
-- `app_backup.sh` is a convenience scripts which calls the above backup scripts at the same time.
+- `mariadb/mariadb_backup.sh` saves the `skatliste` database into the `mariadb/backups/mariadb-sqldump.sql` file.
 
-The restore scripts must be run with arguments:
-- `nodered_restore.sh` \<<i>timestamped tgz archive</i>\>
-- `mysql_restore.sh` \<<i>timestamped mariadb_dump</i>\>
-- `app_restore.sh` (without args) is a convenience script that calls the bove restore scripts. Edit this file to set the correct timestamped input files prior to execution. 
+## Restore
+The restore script `app_restore.sh` runs the following scripts:
+- `nodered_restore.sh` to restore the nodered application  from the last `nodered/backups/node-red-skat.tgz` archive
+- `mysql_restore.sh` to restore the database entries from the last `mariadb/backups/mariadb-sqldump.sql` archive
+
+## Rebuild
+> Only attempt to run this after backup files have been created!
+> 
+The script `app_rebuild.sh` tears down all current Docker artefacts, and completely rebuilds them from the archived
 
 Note to self: scripts to be polished up from their current bare-bones form.
