@@ -1,0 +1,1106 @@
+spiel,stufe,spitzen,wert
+Ramsch,Einfach,0,-1
+Null,Einfach,0,23
+Null,Hand,0,35
+Null,Offen,0,46
+Null,Hand Offen,0,59
+Karo,Einfach,-11,108
+Karo,Einfach,-10,99
+Karo,Einfach,-9,90
+Karo,Einfach,-8,81
+Karo,Einfach,-7,72
+Karo,Einfach,-6,63
+Karo,Einfach,-5,54
+Karo,Einfach,-4,45
+Karo,Einfach,-3,36
+Karo,Einfach,-2,27
+Karo,Einfach,-1,18
+Karo,Einfach,1,18
+Karo,Einfach,2,27
+Karo,Einfach,3,36
+Karo,Einfach,4,45
+Karo,Einfach,5,54
+Karo,Einfach,6,63
+Karo,Einfach,7,72
+Karo,Einfach,8,81
+Karo,Einfach,9,90
+Karo,Einfach,10,99
+Karo,Einfach,11,108
+Karo,Hand,-11,117
+Karo,Hand,-10,108
+Karo,Hand,-9,99
+Karo,Hand,-8,90
+Karo,Hand,-7,81
+Karo,Hand,-6,72
+Karo,Hand,-5,63
+Karo,Hand,-4,54
+Karo,Hand,-3,45
+Karo,Hand,-2,36
+Karo,Hand,-1,27
+Karo,Hand,1,27
+Karo,Hand,2,36
+Karo,Hand,3,45
+Karo,Hand,4,54
+Karo,Hand,5,63
+Karo,Hand,6,72
+Karo,Hand,7,81
+Karo,Hand,8,90
+Karo,Hand,9,99
+Karo,Hand,10,108
+Karo,Hand,11,117
+Karo,Schneider,-11,117
+Karo,Schneider,-10,108
+Karo,Schneider,-9,99
+Karo,Schneider,-8,90
+Karo,Schneider,-7,81
+Karo,Schneider,-6,72
+Karo,Schneider,-5,63
+Karo,Schneider,-4,54
+Karo,Schneider,-3,45
+Karo,Schneider,-2,36
+Karo,Schneider,-1,27
+Karo,Schneider,1,27
+Karo,Schneider,2,36
+Karo,Schneider,3,45
+Karo,Schneider,4,54
+Karo,Schneider,5,63
+Karo,Schneider,6,72
+Karo,Schneider,7,81
+Karo,Schneider,8,90
+Karo,Schneider,9,99
+Karo,Schneider,10,108
+Karo,Schneider,11,117
+Karo,Hand Schneider,-11,126
+Karo,Hand Schneider,-10,117
+Karo,Hand Schneider,-9,108
+Karo,Hand Schneider,-8,99
+Karo,Hand Schneider,-7,90
+Karo,Hand Schneider,-6,81
+Karo,Hand Schneider,-5,72
+Karo,Hand Schneider,-4,63
+Karo,Hand Schneider,-3,54
+Karo,Hand Schneider,-2,45
+Karo,Hand Schneider,-1,36
+Karo,Hand Schneider,1,36
+Karo,Hand Schneider,2,45
+Karo,Hand Schneider,3,54
+Karo,Hand Schneider,4,63
+Karo,Hand Schneider,5,72
+Karo,Hand Schneider,6,81
+Karo,Hand Schneider,7,90
+Karo,Hand Schneider,8,99
+Karo,Hand Schneider,9,108
+Karo,Hand Schneider,10,117
+Karo,Hand Schneider,11,126
+Karo,Schneider angesagt,-11,135
+Karo,Schneider angesagt,-10,126
+Karo,Schneider angesagt,-9,117
+Karo,Schneider angesagt,-8,108
+Karo,Schneider angesagt,-7,99
+Karo,Schneider angesagt,-6,90
+Karo,Schneider angesagt,-5,81
+Karo,Schneider angesagt,-4,72
+Karo,Schneider angesagt,-3,63
+Karo,Schneider angesagt,-2,54
+Karo,Schneider angesagt,-1,45
+Karo,Schneider angesagt,1,45
+Karo,Schneider angesagt,2,54
+Karo,Schneider angesagt,3,63
+Karo,Schneider angesagt,4,72
+Karo,Schneider angesagt,5,81
+Karo,Schneider angesagt,6,90
+Karo,Schneider angesagt,7,99
+Karo,Schneider angesagt,8,108
+Karo,Schneider angesagt,9,117
+Karo,Schneider angesagt,10,126
+Karo,Schneider angesagt,11,135
+Karo,Schneider ang. Schwarz,-11,144
+Karo,Schneider ang. Schwarz,-10,135
+Karo,Schneider ang. Schwarz,-9,126
+Karo,Schneider ang. Schwarz,-8,117
+Karo,Schneider ang. Schwarz,-7,108
+Karo,Schneider ang. Schwarz,-6,99
+Karo,Schneider ang. Schwarz,-5,90
+Karo,Schneider ang. Schwarz,-4,81
+Karo,Schneider ang. Schwarz,-3,72
+Karo,Schneider ang. Schwarz,-2,63
+Karo,Schneider ang. Schwarz,-1,54
+Karo,Schneider ang. Schwarz,1,54
+Karo,Schneider ang. Schwarz,2,63
+Karo,Schneider ang. Schwarz,3,72
+Karo,Schneider ang. Schwarz,4,81
+Karo,Schneider ang. Schwarz,5,90
+Karo,Schneider ang. Schwarz,6,99
+Karo,Schneider ang. Schwarz,7,108
+Karo,Schneider ang. Schwarz,8,117
+Karo,Schneider ang. Schwarz,9,126
+Karo,Schneider ang. Schwarz,10,135
+Karo,Schneider ang. Schwarz,11,144
+Karo,Schwarz,-11,126
+Herz,Schwarz,-11,140
+Pik,Schwarz,-11,154
+Kreuz,Schwarz,-11,168
+Grand,Schwarz,-11,336
+Karo,Schwarz,-10,117
+Herz,Schwarz,-10,130
+Pik,Schwarz,-10,143
+Kreuz,Schwarz,-10,156
+Grand,Schwarz,-10,312
+Karo,Schwarz,-9,108
+Herz,Schwarz,-9,120
+Pik,Schwarz,-9,132
+Kreuz,Schwarz,-9,144
+Grand,Schwarz,-9,288
+Karo,Schwarz,-8,99
+Herz,Schwarz,-8,110
+Pik,Schwarz,-8,121
+Kreuz,Schwarz,-8,132
+Grand,Schwarz,-8,264
+Karo,Schwarz,-7,90
+Herz,Schwarz,-7,100
+Karo,Hand Schwarz,-11,135
+Karo,Hand Schwarz,-10,126
+Karo,Hand Schwarz,-9,117
+Karo,Hand Schwarz,-8,108
+Karo,Hand Schwarz,-7,99
+Karo,Hand Schwarz,-6,90
+Karo,Hand Schwarz,-5,81
+Karo,Hand Schwarz,-4,72
+Karo,Hand Schwarz,-3,63
+Karo,Hand Schwarz,-2,54
+Karo,Hand Schwarz,-1,45
+Karo,Hand Schwarz,1,45
+Karo,Hand Schwarz,2,54
+Karo,Hand Schwarz,3,63
+Karo,Hand Schwarz,4,72
+Karo,Hand Schwarz,5,81
+Karo,Hand Schwarz,6,90
+Karo,Hand Schwarz,7,99
+Karo,Hand Schwarz,8,108
+Karo,Hand Schwarz,9,117
+Karo,Hand Schwarz,10,126
+Karo,Hand Schwarz,11,135
+Karo,Schwarz angesagt,-11,144
+Karo,Schwarz angesagt,-10,135
+Karo,Schwarz angesagt,-9,126
+Karo,Schwarz angesagt,-8,117
+Karo,Schwarz angesagt,-7,108
+Karo,Schwarz angesagt,-6,99
+Karo,Schwarz angesagt,-5,90
+Karo,Schwarz angesagt,-4,81
+Karo,Schwarz angesagt,-3,72
+Karo,Schwarz angesagt,-2,63
+Karo,Schwarz angesagt,-1,54
+Karo,Schwarz angesagt,1,54
+Karo,Schwarz angesagt,2,63
+Karo,Schwarz angesagt,3,72
+Karo,Schwarz angesagt,4,81
+Karo,Schwarz angesagt,5,90
+Karo,Schwarz angesagt,6,99
+Karo,Schwarz angesagt,7,108
+Karo,Schwarz angesagt,8,117
+Karo,Schwarz angesagt,9,126
+Karo,Schwarz angesagt,10,135
+Karo,Schwarz angesagt,11,144
+Karo,Offen,-11,153
+Karo,Offen,-10,144
+Karo,Offen,-9,135
+Karo,Offen,-8,126
+Karo,Offen,-7,117
+Karo,Offen,-6,108
+Karo,Offen,-5,99
+Karo,Offen,-4,90
+Karo,Offen,-3,81
+Karo,Offen,-2,72
+Karo,Offen,-1,63
+Karo,Offen,1,63
+Karo,Offen,2,72
+Karo,Offen,3,81
+Karo,Offen,4,90
+Karo,Offen,5,99
+Karo,Offen,6,108
+Karo,Offen,7,117
+Karo,Offen,8,126
+Karo,Offen,9,135
+Karo,Offen,10,144
+Karo,Offen,11,153
+Herz,Einfach,-11,120
+Herz,Einfach,-10,110
+Herz,Einfach,-9,100
+Herz,Einfach,-8,90
+Herz,Einfach,-7,80
+Herz,Einfach,-6,70
+Herz,Einfach,-5,60
+Herz,Einfach,-4,50
+Herz,Einfach,-3,40
+Herz,Einfach,-2,30
+Herz,Einfach,-1,20
+Herz,Einfach,1,20
+Herz,Einfach,2,30
+Herz,Einfach,3,40
+Herz,Einfach,4,50
+Herz,Einfach,5,60
+Herz,Einfach,6,70
+Herz,Einfach,7,80
+Herz,Einfach,8,90
+Herz,Einfach,9,100
+Herz,Einfach,10,110
+Herz,Einfach,11,120
+Herz,Hand,-11,130
+Herz,Hand,-10,120
+Herz,Hand,-9,110
+Herz,Hand,-8,100
+Herz,Hand,-7,90
+Herz,Hand,-6,80
+Herz,Hand,-5,70
+Herz,Hand,-4,60
+Herz,Hand,-3,50
+Herz,Hand,-2,40
+Herz,Hand,-1,30
+Herz,Hand,1,30
+Herz,Hand,2,40
+Herz,Hand,3,50
+Herz,Hand,4,60
+Herz,Hand,5,70
+Herz,Hand,6,80
+Herz,Hand,7,90
+Herz,Hand,8,100
+Herz,Hand,9,110
+Herz,Hand,10,120
+Herz,Hand,11,130
+Herz,Schneider,-11,130
+Herz,Schneider,-10,120
+Herz,Schneider,-9,110
+Herz,Schneider,-8,100
+Herz,Schneider,-7,90
+Herz,Schneider,-6,80
+Herz,Schneider,-5,70
+Herz,Schneider,-4,60
+Herz,Schneider,-3,50
+Herz,Schneider,-2,40
+Herz,Schneider,-1,30
+Herz,Schneider,1,30
+Herz,Schneider,2,40
+Herz,Schneider,3,50
+Herz,Schneider,4,60
+Herz,Schneider,5,70
+Herz,Schneider,6,80
+Herz,Schneider,7,90
+Herz,Schneider,8,100
+Herz,Schneider,9,110
+Herz,Schneider,10,120
+Herz,Schneider,11,130
+Herz,Hand Schneider,-11,140
+Herz,Hand Schneider,-10,130
+Herz,Hand Schneider,-9,120
+Herz,Hand Schneider,-8,110
+Herz,Hand Schneider,-7,100
+Herz,Hand Schneider,-6,90
+Herz,Hand Schneider,-5,80
+Herz,Hand Schneider,-4,70
+Herz,Hand Schneider,-3,60
+Herz,Hand Schneider,-2,50
+Herz,Hand Schneider,-1,40
+Herz,Hand Schneider,1,40
+Herz,Hand Schneider,2,50
+Herz,Hand Schneider,3,60
+Herz,Hand Schneider,4,70
+Herz,Hand Schneider,5,80
+Herz,Hand Schneider,6,90
+Herz,Hand Schneider,7,100
+Herz,Hand Schneider,8,110
+Herz,Hand Schneider,9,120
+Herz,Hand Schneider,10,130
+Herz,Hand Schneider,11,140
+Herz,Schneider angesagt,-11,150
+Herz,Schneider angesagt,-10,140
+Herz,Schneider angesagt,-9,130
+Herz,Schneider angesagt,-8,120
+Herz,Schneider angesagt,-7,110
+Herz,Schneider angesagt,-6,100
+Herz,Schneider angesagt,-5,90
+Herz,Schneider angesagt,-4,80
+Herz,Schneider angesagt,-3,70
+Herz,Schneider angesagt,-2,60
+Herz,Schneider angesagt,-1,50
+Herz,Schneider angesagt,1,50
+Herz,Schneider angesagt,2,60
+Herz,Schneider angesagt,3,70
+Herz,Schneider angesagt,4,80
+Herz,Schneider angesagt,5,90
+Herz,Schneider angesagt,6,100
+Herz,Schneider angesagt,7,110
+Herz,Schneider angesagt,8,120
+Herz,Schneider angesagt,9,130
+Herz,Schneider angesagt,10,140
+Herz,Schneider angesagt,11,150
+Herz,Schneider ang. Schwarz,-11,160
+Herz,Schneider ang. Schwarz,-10,150
+Herz,Schneider ang. Schwarz,-9,140
+Herz,Schneider ang. Schwarz,-8,130
+Herz,Schneider ang. Schwarz,-7,120
+Herz,Schneider ang. Schwarz,-6,110
+Herz,Schneider ang. Schwarz,-5,100
+Herz,Schneider ang. Schwarz,-4,90
+Herz,Schneider ang. Schwarz,-3,80
+Herz,Schneider ang. Schwarz,-2,70
+Herz,Schneider ang. Schwarz,-1,60
+Herz,Schneider ang. Schwarz,1,60
+Herz,Schneider ang. Schwarz,2,70
+Herz,Schneider ang. Schwarz,3,80
+Herz,Schneider ang. Schwarz,4,90
+Herz,Schneider ang. Schwarz,5,100
+Herz,Schneider ang. Schwarz,6,110
+Herz,Schneider ang. Schwarz,7,120
+Herz,Schneider ang. Schwarz,8,130
+Herz,Schneider ang. Schwarz,9,140
+Herz,Schneider ang. Schwarz,10,150
+Herz,Schneider ang. Schwarz,11,160
+Pik,Schwarz,-7,110
+Kreuz,Schwarz,-7,120
+Grand,Schwarz,-7,240
+Karo,Schwarz,-6,81
+Herz,Schwarz,-6,90
+Pik,Schwarz,-6,99
+Kreuz,Schwarz,-6,108
+Grand,Schwarz,-6,216
+Karo,Schwarz,-5,72
+Herz,Schwarz,-5,80
+Pik,Schwarz,-5,88
+Kreuz,Schwarz,-5,96
+Grand,Schwarz,-5,192
+Karo,Schwarz,-4,63
+Herz,Schwarz,-4,70
+Pik,Schwarz,-4,77
+Kreuz,Schwarz,-4,84
+Grand,Schwarz,-4,168
+Karo,Schwarz,-3,54
+Herz,Schwarz,-3,60
+Pik,Schwarz,-3,66
+Kreuz,Schwarz,-3,72
+Herz,Hand Schwarz,-11,150
+Herz,Hand Schwarz,-10,140
+Herz,Hand Schwarz,-9,130
+Herz,Hand Schwarz,-8,120
+Herz,Hand Schwarz,-7,110
+Herz,Hand Schwarz,-6,100
+Herz,Hand Schwarz,-5,90
+Herz,Hand Schwarz,-4,80
+Herz,Hand Schwarz,-3,70
+Herz,Hand Schwarz,-2,60
+Herz,Hand Schwarz,-1,50
+Herz,Hand Schwarz,1,50
+Herz,Hand Schwarz,2,60
+Herz,Hand Schwarz,3,70
+Herz,Hand Schwarz,4,80
+Herz,Hand Schwarz,5,90
+Herz,Hand Schwarz,6,100
+Herz,Hand Schwarz,7,110
+Herz,Hand Schwarz,8,120
+Herz,Hand Schwarz,9,130
+Herz,Hand Schwarz,10,140
+Herz,Hand Schwarz,11,150
+Herz,Schwarz angesagt,-11,160
+Herz,Schwarz angesagt,-10,150
+Herz,Schwarz angesagt,-9,140
+Herz,Schwarz angesagt,-8,130
+Herz,Schwarz angesagt,-7,120
+Herz,Schwarz angesagt,-6,110
+Herz,Schwarz angesagt,-5,100
+Herz,Schwarz angesagt,-4,90
+Herz,Schwarz angesagt,-3,80
+Herz,Schwarz angesagt,-2,70
+Herz,Schwarz angesagt,-1,60
+Herz,Schwarz angesagt,1,60
+Herz,Schwarz angesagt,2,70
+Herz,Schwarz angesagt,3,80
+Herz,Schwarz angesagt,4,90
+Herz,Schwarz angesagt,5,100
+Herz,Schwarz angesagt,6,110
+Herz,Schwarz angesagt,7,120
+Herz,Schwarz angesagt,8,130
+Herz,Schwarz angesagt,9,140
+Herz,Schwarz angesagt,10,150
+Herz,Schwarz angesagt,11,160
+Herz,Offen,-11,170
+Herz,Offen,-10,160
+Herz,Offen,-9,150
+Herz,Offen,-8,140
+Herz,Offen,-7,130
+Herz,Offen,-6,120
+Herz,Offen,-5,110
+Herz,Offen,-4,100
+Herz,Offen,-3,90
+Herz,Offen,-2,80
+Herz,Offen,-1,70
+Herz,Offen,1,70
+Herz,Offen,2,80
+Herz,Offen,3,90
+Herz,Offen,4,100
+Herz,Offen,5,110
+Herz,Offen,6,120
+Herz,Offen,7,130
+Herz,Offen,8,140
+Herz,Offen,9,150
+Herz,Offen,10,160
+Herz,Offen,11,170
+Pik,Einfach,-11,132
+Pik,Einfach,-10,121
+Pik,Einfach,-9,110
+Pik,Einfach,-8,99
+Pik,Einfach,-7,88
+Pik,Einfach,-6,77
+Pik,Einfach,-5,66
+Pik,Einfach,-4,55
+Pik,Einfach,-3,44
+Pik,Einfach,-2,33
+Pik,Einfach,-1,22
+Pik,Einfach,1,22
+Pik,Einfach,2,33
+Pik,Einfach,3,44
+Pik,Einfach,4,55
+Pik,Einfach,5,66
+Pik,Einfach,6,77
+Pik,Einfach,7,88
+Pik,Einfach,8,99
+Pik,Einfach,9,110
+Pik,Einfach,10,121
+Pik,Einfach,11,132
+Pik,Hand,-11,143
+Pik,Hand,-10,132
+Pik,Hand,-9,121
+Pik,Hand,-8,110
+Pik,Hand,-7,99
+Pik,Hand,-6,88
+Pik,Hand,-5,77
+Pik,Hand,-4,66
+Pik,Hand,-3,55
+Pik,Hand,-2,44
+Pik,Hand,-1,33
+Pik,Hand,1,33
+Pik,Hand,2,44
+Pik,Hand,3,55
+Pik,Hand,4,66
+Pik,Hand,5,77
+Pik,Hand,6,88
+Pik,Hand,7,99
+Pik,Hand,8,110
+Pik,Hand,9,121
+Pik,Hand,10,132
+Pik,Hand,11,143
+Pik,Schneider,-11,143
+Pik,Schneider,-10,132
+Pik,Schneider,-9,121
+Pik,Schneider,-8,110
+Pik,Schneider,-7,99
+Pik,Schneider,-6,88
+Pik,Schneider,-5,77
+Pik,Schneider,-4,66
+Pik,Schneider,-3,55
+Pik,Schneider,-2,44
+Pik,Schneider,-1,33
+Pik,Schneider,1,33
+Pik,Schneider,2,44
+Pik,Schneider,3,55
+Pik,Schneider,4,66
+Pik,Schneider,5,77
+Pik,Schneider,6,88
+Pik,Schneider,7,99
+Pik,Schneider,8,110
+Pik,Schneider,9,121
+Pik,Schneider,10,132
+Pik,Schneider,11,143
+Pik,Hand Schneider,-11,154
+Pik,Hand Schneider,-10,143
+Pik,Hand Schneider,-9,132
+Pik,Hand Schneider,-8,121
+Pik,Hand Schneider,-7,110
+Pik,Hand Schneider,-6,99
+Pik,Hand Schneider,-5,88
+Pik,Hand Schneider,-4,77
+Pik,Hand Schneider,-3,66
+Pik,Hand Schneider,-2,55
+Pik,Hand Schneider,-1,44
+Pik,Hand Schneider,1,44
+Pik,Hand Schneider,2,55
+Pik,Hand Schneider,3,66
+Pik,Hand Schneider,4,77
+Pik,Hand Schneider,5,88
+Pik,Hand Schneider,6,99
+Pik,Hand Schneider,7,110
+Pik,Hand Schneider,8,121
+Pik,Hand Schneider,9,132
+Pik,Hand Schneider,10,143
+Pik,Hand Schneider,11,154
+Pik,Schneider angesagt,-11,165
+Pik,Schneider angesagt,-10,154
+Pik,Schneider angesagt,-9,143
+Pik,Schneider angesagt,-8,132
+Pik,Schneider angesagt,-7,121
+Pik,Schneider angesagt,-6,110
+Pik,Schneider angesagt,-5,99
+Pik,Schneider angesagt,-4,88
+Pik,Schneider angesagt,-3,77
+Pik,Schneider angesagt,-2,66
+Pik,Schneider angesagt,-1,55
+Pik,Schneider angesagt,1,55
+Pik,Schneider angesagt,2,66
+Pik,Schneider angesagt,3,77
+Pik,Schneider angesagt,4,88
+Pik,Schneider angesagt,5,99
+Pik,Schneider angesagt,6,110
+Pik,Schneider angesagt,7,121
+Pik,Schneider angesagt,8,132
+Pik,Schneider angesagt,9,143
+Pik,Schneider angesagt,10,154
+Pik,Schneider angesagt,11,165
+Pik,Schneider ang. Schwarz,-11,176
+Pik,Schneider ang. Schwarz,-10,165
+Pik,Schneider ang. Schwarz,-9,154
+Pik,Schneider ang. Schwarz,-8,143
+Pik,Schneider ang. Schwarz,-7,132
+Pik,Schneider ang. Schwarz,-6,121
+Pik,Schneider ang. Schwarz,-5,110
+Pik,Schneider ang. Schwarz,-4,99
+Pik,Schneider ang. Schwarz,-3,88
+Pik,Schneider ang. Schwarz,-2,77
+Pik,Schneider ang. Schwarz,-1,66
+Pik,Schneider ang. Schwarz,1,66
+Pik,Schneider ang. Schwarz,2,77
+Pik,Schneider ang. Schwarz,3,88
+Pik,Schneider ang. Schwarz,4,99
+Pik,Schneider ang. Schwarz,5,110
+Pik,Schneider ang. Schwarz,6,121
+Pik,Schneider ang. Schwarz,7,132
+Pik,Schneider ang. Schwarz,8,143
+Pik,Schneider ang. Schwarz,9,154
+Pik,Schneider ang. Schwarz,10,165
+Pik,Schneider ang. Schwarz,11,176
+Grand,Schwarz,-3,144
+Karo,Schwarz,-2,45
+Herz,Schwarz,-2,50
+Pik,Schwarz,-2,55
+Kreuz,Schwarz,-2,60
+Grand,Schwarz,-2,120
+Karo,Schwarz,-1,36
+Herz,Schwarz,-1,40
+Pik,Schwarz,-1,44
+Kreuz,Schwarz,-1,48
+Grand,Schwarz,-1,96
+Karo,Schwarz,1,36
+Herz,Schwarz,1,40
+Pik,Schwarz,1,44
+Kreuz,Schwarz,1,48
+Grand,Schwarz,1,96
+Karo,Schwarz,2,45
+Herz,Schwarz,2,50
+Pik,Schwarz,2,55
+Kreuz,Schwarz,2,60
+Grand,Schwarz,2,120
+Karo,Schwarz,3,54
+Pik,Hand Schwarz,-11,165
+Pik,Hand Schwarz,-10,154
+Pik,Hand Schwarz,-9,143
+Pik,Hand Schwarz,-8,132
+Pik,Hand Schwarz,-7,121
+Pik,Hand Schwarz,-6,110
+Pik,Hand Schwarz,-5,99
+Pik,Hand Schwarz,-4,88
+Pik,Hand Schwarz,-3,77
+Pik,Hand Schwarz,-2,66
+Pik,Hand Schwarz,-1,55
+Pik,Hand Schwarz,1,55
+Pik,Hand Schwarz,2,66
+Pik,Hand Schwarz,3,77
+Pik,Hand Schwarz,4,88
+Pik,Hand Schwarz,5,99
+Pik,Hand Schwarz,6,110
+Pik,Hand Schwarz,7,121
+Pik,Hand Schwarz,8,132
+Pik,Hand Schwarz,9,143
+Pik,Hand Schwarz,10,154
+Pik,Hand Schwarz,11,165
+Pik,Schwarz angesagt,-11,176
+Pik,Schwarz angesagt,-10,165
+Pik,Schwarz angesagt,-9,154
+Pik,Schwarz angesagt,-8,143
+Pik,Schwarz angesagt,-7,132
+Pik,Schwarz angesagt,-6,121
+Pik,Schwarz angesagt,-5,110
+Pik,Schwarz angesagt,-4,99
+Pik,Schwarz angesagt,-3,88
+Pik,Schwarz angesagt,-2,77
+Pik,Schwarz angesagt,-1,66
+Pik,Schwarz angesagt,1,66
+Pik,Schwarz angesagt,2,77
+Pik,Schwarz angesagt,3,88
+Pik,Schwarz angesagt,4,99
+Pik,Schwarz angesagt,5,110
+Pik,Schwarz angesagt,6,121
+Pik,Schwarz angesagt,7,132
+Pik,Schwarz angesagt,8,143
+Pik,Schwarz angesagt,9,154
+Pik,Schwarz angesagt,10,165
+Pik,Schwarz angesagt,11,176
+Pik,Offen,-11,187
+Pik,Offen,-10,176
+Pik,Offen,-9,165
+Pik,Offen,-8,154
+Pik,Offen,-7,143
+Pik,Offen,-6,132
+Pik,Offen,-5,121
+Pik,Offen,-4,110
+Pik,Offen,-3,99
+Pik,Offen,-2,88
+Pik,Offen,-1,77
+Pik,Offen,1,77
+Pik,Offen,2,88
+Pik,Offen,3,99
+Pik,Offen,4,110
+Pik,Offen,5,121
+Pik,Offen,6,132
+Pik,Offen,7,143
+Pik,Offen,8,154
+Pik,Offen,9,165
+Pik,Offen,10,176
+Pik,Offen,11,187
+Kreuz,Einfach,-11,144
+Kreuz,Einfach,-10,132
+Kreuz,Einfach,-9,120
+Kreuz,Einfach,-8,108
+Kreuz,Einfach,-7,96
+Kreuz,Einfach,-6,84
+Kreuz,Einfach,-5,72
+Kreuz,Einfach,-4,60
+Kreuz,Einfach,-3,48
+Kreuz,Einfach,-2,36
+Kreuz,Einfach,-1,24
+Kreuz,Einfach,1,24
+Kreuz,Einfach,2,36
+Kreuz,Einfach,3,48
+Kreuz,Einfach,4,60
+Kreuz,Einfach,5,72
+Kreuz,Einfach,6,84
+Kreuz,Einfach,7,96
+Kreuz,Einfach,8,108
+Kreuz,Einfach,9,120
+Kreuz,Einfach,10,132
+Kreuz,Einfach,11,144
+Kreuz,Hand,-11,156
+Kreuz,Hand,-10,144
+Kreuz,Hand,-9,132
+Kreuz,Hand,-8,120
+Kreuz,Hand,-7,108
+Kreuz,Hand,-6,96
+Kreuz,Hand,-5,84
+Kreuz,Hand,-4,72
+Kreuz,Hand,-3,60
+Kreuz,Hand,-2,48
+Kreuz,Hand,-1,36
+Kreuz,Hand,1,36
+Kreuz,Hand,2,48
+Kreuz,Hand,3,60
+Kreuz,Hand,4,72
+Kreuz,Hand,5,84
+Kreuz,Hand,6,96
+Kreuz,Hand,7,108
+Kreuz,Hand,8,120
+Kreuz,Hand,9,132
+Kreuz,Hand,10,144
+Kreuz,Hand,11,156
+Kreuz,Schneider,-11,156
+Kreuz,Schneider,-10,144
+Kreuz,Schneider,-9,132
+Kreuz,Schneider,-8,120
+Kreuz,Schneider,-7,108
+Kreuz,Schneider,-6,96
+Kreuz,Schneider,-5,84
+Kreuz,Schneider,-4,72
+Kreuz,Schneider,-3,60
+Kreuz,Schneider,-2,48
+Kreuz,Schneider,-1,36
+Kreuz,Schneider,1,36
+Kreuz,Schneider,2,48
+Kreuz,Schneider,3,60
+Kreuz,Schneider,4,72
+Kreuz,Schneider,5,84
+Kreuz,Schneider,6,96
+Kreuz,Schneider,7,108
+Kreuz,Schneider,8,120
+Kreuz,Schneider,9,132
+Kreuz,Schneider,10,144
+Kreuz,Schneider,11,156
+Kreuz,Hand Schneider,-11,168
+Kreuz,Hand Schneider,-10,156
+Kreuz,Hand Schneider,-9,144
+Kreuz,Hand Schneider,-8,132
+Kreuz,Hand Schneider,-7,120
+Kreuz,Hand Schneider,-6,108
+Kreuz,Hand Schneider,-5,96
+Kreuz,Hand Schneider,-4,84
+Kreuz,Hand Schneider,-3,72
+Kreuz,Hand Schneider,-2,60
+Kreuz,Hand Schneider,-1,48
+Kreuz,Hand Schneider,1,48
+Kreuz,Hand Schneider,2,60
+Kreuz,Hand Schneider,3,72
+Kreuz,Hand Schneider,4,84
+Kreuz,Hand Schneider,5,96
+Kreuz,Hand Schneider,6,108
+Kreuz,Hand Schneider,7,120
+Kreuz,Hand Schneider,8,132
+Kreuz,Hand Schneider,9,144
+Kreuz,Hand Schneider,10,156
+Kreuz,Hand Schneider,11,168
+Kreuz,Schneider angesagt,-11,180
+Kreuz,Schneider angesagt,-10,168
+Kreuz,Schneider angesagt,-9,156
+Kreuz,Schneider angesagt,-8,144
+Kreuz,Schneider angesagt,-7,132
+Kreuz,Schneider angesagt,-6,120
+Kreuz,Schneider angesagt,-5,108
+Kreuz,Schneider angesagt,-4,96
+Kreuz,Schneider angesagt,-3,84
+Kreuz,Schneider angesagt,-2,72
+Kreuz,Schneider angesagt,-1,60
+Kreuz,Schneider angesagt,1,60
+Kreuz,Schneider angesagt,2,72
+Kreuz,Schneider angesagt,3,84
+Kreuz,Schneider angesagt,4,96
+Kreuz,Schneider angesagt,5,108
+Kreuz,Schneider angesagt,6,120
+Kreuz,Schneider angesagt,7,132
+Kreuz,Schneider angesagt,8,144
+Kreuz,Schneider angesagt,9,156
+Kreuz,Schneider angesagt,10,168
+Kreuz,Schneider angesagt,11,180
+Kreuz,Schneider ang. Schwarz,-11,192
+Kreuz,Schneider ang. Schwarz,-10,180
+Kreuz,Schneider ang. Schwarz,-9,168
+Kreuz,Schneider ang. Schwarz,-8,156
+Kreuz,Schneider ang. Schwarz,-7,144
+Kreuz,Schneider ang. Schwarz,-6,132
+Kreuz,Schneider ang. Schwarz,-5,120
+Kreuz,Schneider ang. Schwarz,-4,108
+Kreuz,Schneider ang. Schwarz,-3,96
+Kreuz,Schneider ang. Schwarz,-2,84
+Kreuz,Schneider ang. Schwarz,-1,72
+Kreuz,Schneider ang. Schwarz,1,72
+Kreuz,Schneider ang. Schwarz,2,84
+Kreuz,Schneider ang. Schwarz,3,96
+Kreuz,Schneider ang. Schwarz,4,108
+Kreuz,Schneider ang. Schwarz,5,120
+Kreuz,Schneider ang. Schwarz,6,132
+Kreuz,Schneider ang. Schwarz,7,144
+Kreuz,Schneider ang. Schwarz,8,156
+Kreuz,Schneider ang. Schwarz,9,168
+Kreuz,Schneider ang. Schwarz,10,180
+Kreuz,Schneider ang. Schwarz,11,192
+Herz,Schwarz,3,60
+Pik,Schwarz,3,66
+Kreuz,Schwarz,3,72
+Grand,Schwarz,3,144
+Karo,Schwarz,4,63
+Herz,Schwarz,4,70
+Pik,Schwarz,4,77
+Kreuz,Schwarz,4,84
+Grand,Schwarz,4,168
+Karo,Schwarz,5,72
+Herz,Schwarz,5,80
+Pik,Schwarz,5,88
+Kreuz,Schwarz,5,96
+Grand,Schwarz,5,192
+Karo,Schwarz,6,81
+Herz,Schwarz,6,90
+Pik,Schwarz,6,99
+Kreuz,Schwarz,6,108
+Grand,Schwarz,6,216
+Karo,Schwarz,7,90
+Herz,Schwarz,7,100
+Pik,Schwarz,7,110
+Kreuz,Hand Schwarz,-11,180
+Kreuz,Hand Schwarz,-10,168
+Kreuz,Hand Schwarz,-9,156
+Kreuz,Hand Schwarz,-8,144
+Kreuz,Hand Schwarz,-7,132
+Kreuz,Hand Schwarz,-6,120
+Kreuz,Hand Schwarz,-5,108
+Kreuz,Hand Schwarz,-4,96
+Kreuz,Hand Schwarz,-3,84
+Kreuz,Hand Schwarz,-2,72
+Kreuz,Hand Schwarz,-1,60
+Kreuz,Hand Schwarz,1,60
+Kreuz,Hand Schwarz,2,72
+Kreuz,Hand Schwarz,3,84
+Kreuz,Hand Schwarz,4,96
+Kreuz,Hand Schwarz,5,108
+Kreuz,Hand Schwarz,6,120
+Kreuz,Hand Schwarz,7,132
+Kreuz,Hand Schwarz,8,144
+Kreuz,Hand Schwarz,9,156
+Kreuz,Hand Schwarz,10,168
+Kreuz,Hand Schwarz,11,180
+Kreuz,Schwarz angesagt,-11,192
+Kreuz,Schwarz angesagt,-10,180
+Kreuz,Schwarz angesagt,-9,168
+Kreuz,Schwarz angesagt,-8,156
+Kreuz,Schwarz angesagt,-7,144
+Kreuz,Schwarz angesagt,-6,132
+Kreuz,Schwarz angesagt,-5,120
+Kreuz,Schwarz angesagt,-4,108
+Kreuz,Schwarz angesagt,-3,96
+Kreuz,Schwarz angesagt,-2,84
+Kreuz,Schwarz angesagt,-1,72
+Kreuz,Schwarz angesagt,1,72
+Kreuz,Schwarz angesagt,2,84
+Kreuz,Schwarz angesagt,3,96
+Kreuz,Schwarz angesagt,4,108
+Kreuz,Schwarz angesagt,5,120
+Kreuz,Schwarz angesagt,6,132
+Kreuz,Schwarz angesagt,7,144
+Kreuz,Schwarz angesagt,8,156
+Kreuz,Schwarz angesagt,9,168
+Kreuz,Schwarz angesagt,10,180
+Kreuz,Schwarz angesagt,11,192
+Kreuz,Offen,-11,204
+Kreuz,Offen,-10,192
+Kreuz,Offen,-9,180
+Kreuz,Offen,-8,168
+Kreuz,Offen,-7,156
+Kreuz,Offen,-6,144
+Kreuz,Offen,-5,132
+Kreuz,Offen,-4,120
+Kreuz,Offen,-3,108
+Kreuz,Offen,-2,96
+Kreuz,Offen,-1,84
+Kreuz,Offen,1,84
+Kreuz,Offen,2,96
+Kreuz,Offen,3,108
+Kreuz,Offen,4,120
+Kreuz,Offen,5,132
+Kreuz,Offen,6,144
+Kreuz,Offen,7,156
+Kreuz,Offen,8,168
+Kreuz,Offen,9,180
+Kreuz,Offen,10,192
+Kreuz,Offen,11,204
+Grand,Einfach,-11,288
+Grand,Einfach,-10,264
+Grand,Einfach,-9,240
+Grand,Einfach,-8,216
+Grand,Einfach,-7,192
+Grand,Einfach,-6,168
+Grand,Einfach,-5,144
+Grand,Einfach,-4,120
+Grand,Einfach,-3,96
+Grand,Einfach,-2,72
+Grand,Einfach,-1,48
+Grand,Einfach,1,48
+Grand,Einfach,2,72
+Grand,Einfach,3,96
+Grand,Einfach,4,120
+Grand,Einfach,5,144
+Grand,Einfach,6,168
+Grand,Einfach,7,192
+Grand,Einfach,8,216
+Grand,Einfach,9,240
+Grand,Einfach,10,264
+Grand,Einfach,11,288
+Grand,Hand,-11,312
+Grand,Hand,-10,288
+Grand,Hand,-9,264
+Grand,Hand,-8,240
+Grand,Hand,-7,216
+Grand,Hand,-6,192
+Grand,Hand,-5,168
+Grand,Hand,-4,144
+Grand,Hand,-3,120
+Grand,Hand,-2,96
+Grand,Hand,-1,72
+Grand,Hand,1,72
+Grand,Hand,2,96
+Grand,Hand,3,120
+Grand,Hand,4,144
+Grand,Hand,5,168
+Grand,Hand,6,192
+Grand,Hand,7,216
+Grand,Hand,8,240
+Grand,Hand,9,264
+Grand,Hand,10,288
+Grand,Hand,11,312
+Grand,Schneider,-11,312
+Grand,Schneider,-10,288
+Grand,Schneider,-9,264
+Grand,Schneider,-8,240
+Grand,Schneider,-7,216
+Grand,Schneider,-6,192
+Grand,Schneider,-5,168
+Grand,Schneider,-4,144
+Grand,Schneider,-3,120
+Grand,Schneider,-2,96
+Grand,Schneider,-1,72
+Grand,Schneider,1,72
+Grand,Schneider,2,96
+Grand,Schneider,3,120
+Grand,Schneider,4,144
+Grand,Schneider,5,168
+Grand,Schneider,6,192
+Grand,Schneider,7,216
+Grand,Schneider,8,240
+Grand,Schneider,9,264
+Grand,Schneider,10,288
+Grand,Schneider,11,312
+Grand,Hand Schneider,-11,336
+Grand,Hand Schneider,-10,312
+Grand,Hand Schneider,-9,288
+Grand,Hand Schneider,-8,264
+Grand,Hand Schneider,-7,240
+Grand,Hand Schneider,-6,216
+Grand,Hand Schneider,-5,192
+Grand,Hand Schneider,-4,168
+Grand,Hand Schneider,-3,144
+Grand,Hand Schneider,-2,120
+Grand,Hand Schneider,-1,96
+Grand,Hand Schneider,1,96
+Grand,Hand Schneider,2,120
+Grand,Hand Schneider,3,144
+Grand,Hand Schneider,4,168
+Grand,Hand Schneider,5,192
+Grand,Hand Schneider,6,216
+Grand,Hand Schneider,7,240
+Grand,Hand Schneider,8,264
+Grand,Hand Schneider,9,288
+Grand,Hand Schneider,10,312
+Grand,Hand Schneider,11,336
+Grand,Schneider angesagt,-11,360
+Grand,Schneider angesagt,-10,336
+Grand,Schneider angesagt,-9,312
+Grand,Schneider angesagt,-8,288
+Grand,Schneider angesagt,-7,264
+Grand,Schneider angesagt,-6,240
+Grand,Schneider angesagt,-5,216
+Grand,Schneider angesagt,-4,192
+Grand,Schneider angesagt,-3,168
+Grand,Schneider angesagt,-2,144
+Grand,Schneider angesagt,-1,120
+Grand,Schneider angesagt,1,120
+Grand,Schneider angesagt,2,144
+Grand,Schneider angesagt,3,168
+Grand,Schneider angesagt,4,192
+Grand,Schneider angesagt,5,216
+Grand,Schneider angesagt,6,240
+Grand,Schneider angesagt,7,264
+Grand,Schneider angesagt,8,288
+Grand,Schneider angesagt,9,312
+Grand,Schneider angesagt,10,336
+Grand,Schneider angesagt,11,360
+Grand,Schneider ang. Schwarz,-11,384
+Grand,Schneider ang. Schwarz,-10,360
+Grand,Schneider ang. Schwarz,-9,336
+Grand,Schneider ang. Schwarz,-8,312
+Grand,Schneider ang. Schwarz,-7,288
+Grand,Schneider ang. Schwarz,-6,264
+Grand,Schneider ang. Schwarz,-5,240
+Grand,Schneider ang. Schwarz,-4,216
+Grand,Schneider ang. Schwarz,-3,192
+Grand,Schneider ang. Schwarz,-2,168
+Grand,Schneider ang. Schwarz,-1,144
+Grand,Schneider ang. Schwarz,1,144
+Grand,Schneider ang. Schwarz,2,168
+Grand,Schneider ang. Schwarz,3,192
+Grand,Schneider ang. Schwarz,4,216
+Grand,Schneider ang. Schwarz,5,240
+Grand,Schneider ang. Schwarz,6,264
+Grand,Schneider ang. Schwarz,7,288
+Grand,Schneider ang. Schwarz,8,312
+Grand,Schneider ang. Schwarz,9,336
+Grand,Schneider ang. Schwarz,10,360
+Grand,Schneider ang. Schwarz,11,384
+Kreuz,Schwarz,7,120
+Grand,Schwarz,7,240
+Karo,Schwarz,8,99
+Herz,Schwarz,8,110
+Pik,Schwarz,8,121
+Kreuz,Schwarz,8,132
+Grand,Schwarz,8,264
+Karo,Schwarz,9,108
+Herz,Schwarz,9,120
+Pik,Schwarz,9,132
+Kreuz,Schwarz,9,144
+Grand,Schwarz,9,288
+Karo,Schwarz,10,117
+Herz,Schwarz,10,130
+Pik,Schwarz,10,143
+Kreuz,Schwarz,10,156
+Grand,Schwarz,10,312
+Karo,Schwarz,11,126
+Herz,Schwarz,11,140
+Pik,Schwarz,11,154
+Kreuz,Schwarz,11,168
+Grand,Schwarz,11,336
+Grand,Hand Schwarz,-11,360
+Grand,Hand Schwarz,-10,336
+Grand,Hand Schwarz,-9,312
+Grand,Hand Schwarz,-8,288
+Grand,Hand Schwarz,-7,264
+Grand,Hand Schwarz,-6,240
+Grand,Hand Schwarz,-5,216
+Grand,Hand Schwarz,-4,192
+Grand,Hand Schwarz,-3,168
+Grand,Hand Schwarz,-2,144
+Grand,Hand Schwarz,-1,120
+Grand,Hand Schwarz,1,120
+Grand,Hand Schwarz,2,144
+Grand,Hand Schwarz,3,168
+Grand,Hand Schwarz,4,192
+Grand,Hand Schwarz,5,216
+Grand,Hand Schwarz,6,240
+Grand,Hand Schwarz,7,264
+Grand,Hand Schwarz,8,288
+Grand,Hand Schwarz,9,312
+Grand,Hand Schwarz,10,336
+Grand,Hand Schwarz,11,360
+Grand,Schwarz angesagt,-11,384
+Grand,Schwarz angesagt,-10,360
+Grand,Schwarz angesagt,-9,336
+Grand,Schwarz angesagt,-8,312
+Grand,Schwarz angesagt,-7,288
+Grand,Schwarz angesagt,-6,264
+Grand,Schwarz angesagt,-5,240
+Grand,Schwarz angesagt,-4,216
+Grand,Schwarz angesagt,-3,192
+Grand,Schwarz angesagt,-2,168
+Grand,Schwarz angesagt,-1,144
+Grand,Schwarz angesagt,1,144
+Grand,Schwarz angesagt,2,168
+Grand,Schwarz angesagt,3,192
+Grand,Schwarz angesagt,4,216
+Grand,Schwarz angesagt,5,240
+Grand,Schwarz angesagt,6,264
+Grand,Schwarz angesagt,7,288
+Grand,Schwarz angesagt,8,312
+Grand,Schwarz angesagt,9,336
+Grand,Schwarz angesagt,10,360
+Grand,Schwarz angesagt,11,384
+Grand,Offen,-11,408
+Grand,Offen,-10,384
+Grand,Offen,-9,360
+Grand,Offen,-8,336
+Grand,Offen,-7,312
+Grand,Offen,-6,288
+Grand,Offen,-5,264
+Grand,Offen,-4,240
+Grand,Offen,-3,216
+Grand,Offen,-2,192
+Grand,Offen,-1,168
+Grand,Offen,1,168
+Grand,Offen,2,192
+Grand,Offen,3,216
+Grand,Offen,4,240
+Grand,Offen,5,264
+Grand,Offen,6,288
+Grand,Offen,7,312
+Grand,Offen,8,336
+Grand,Offen,9,360
+Grand,Offen,10,384
+Grand,Offen,11,408
