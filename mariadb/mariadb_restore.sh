@@ -5,7 +5,6 @@ set -x
 CONTAINER=skatliste_mariadb
 
 # Database Variables
-DATABASE=skatliste
 DBUSER=root
 DBPWD=rootsecrets
 
